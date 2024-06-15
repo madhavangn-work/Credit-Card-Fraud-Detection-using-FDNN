@@ -32,12 +32,12 @@ pip install pandas numpy matplotlib scikit-learn tensorflow keras
 
 1. Clone this repository:
 ```
-https://github.com/madhavgn007/CCFD.git
+https://github.com/madhavgn007/Credit-Card-Fraud-Detection-using-FDNN.git
 ```
 
 2. Navigate to the project directory:
 ```
-cd CCFD
+cd Credit-Card-Fraud-Detection-using-FDNN
 ```
 
 3. Place the `creditcard.csv` dataset in the project directory.
